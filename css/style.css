@@ -355,6 +355,13 @@ dl .name-yoko {
     border-radius: 8px 8px 0 0;
 }
 
+.seiwa-nav {
+  background-color: #8adfe3;
+  padding: 5px 15px;
+  text-align: center;
+  border-radius: 8px 8px 0 0;
+}
+
 .nobag-nav {
     background-color: #A3CFA7;
     padding: 5px 15px;
@@ -702,7 +709,7 @@ margin-left: 150px;
 }
 
 #seiwa .grid div, #seiwa .suzuri {
-  background-color: #78c6ca;
+  background-color: #FFFCF8;
   box-shadow: 2px 2px 2px 2px #78c6ca;
 }
 
